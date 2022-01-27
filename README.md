@@ -1,2 +1,2 @@
 # WindowsServiceAccountAudit
-Audit Windows service accounts for any matches from the given list
+Audit Windows service accounts for logins that match the given list
